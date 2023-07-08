@@ -1,2 +1,2 @@
-# Integrating-firebase-connection-with-food-ordering-application
+# Integrating-firebase-connections-with-food-ordering-application
 
